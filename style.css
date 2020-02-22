@@ -100,7 +100,6 @@ section{
 .single-work{
     float: left;
     width: 30%;
-    margin: ;
     padding-left: 30px;
     position: relative;
     overflow: hidden;
@@ -138,9 +137,6 @@ section{
 }
 .client-name h4{
     font-size: 20px;
-}
-.client-name small{
-
 }
 .footer-section{
     background-image: url(images/footer-bg.png);
@@ -194,7 +190,7 @@ section{
 }
 .btn i{
     line-height: 90px;
-    font-size: 20px;
+    font-size: 26px;
     transition: 0.2s linear;
 }
 .btn:hover i{
